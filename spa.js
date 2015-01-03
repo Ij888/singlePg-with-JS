@@ -1,1 +1,4 @@
 //views&controllers
+
+var posts =
+    [  ];
